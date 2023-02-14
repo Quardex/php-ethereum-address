@@ -1,5 +1,5 @@
 {
-    "name": "kornrunner/ethereum-address",
+    "name": "quardex/ethereum-address",
     "description": "Pure PHP Ethereum Address Generator / Validator",
     "type": "library",
     "require": {
