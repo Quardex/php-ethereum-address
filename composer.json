@@ -4,8 +4,8 @@
     "type": "library",
     "require": {
         "php": ">=7.3",
-        "kornrunner/keccak": "^1.0",
-        "mdanter/ecc": "^1"
+        "kornrunner/keccak": "*",
+        "mdanter/ecc": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9"
