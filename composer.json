@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "kornrunner\\Ethereum\\": "src"
+            "quardex\\Ethereum\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kornrunner\\Ethereum\\": "test"
+            "quardex\\Ethereum\\": "test"
         }
     },
     "license": "MIT",
